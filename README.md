@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vici0uz
 - 👀 I’m interested in IA, Biotechnology, Bioinformatics
 - 🌱 I’m currently learning Vue
-- 💞️ I’m looking to collaborate on arduino, IA, Open Source, Bioinformatics
+- 💞️ I’m looking to collaborate on IA, Open Source, Bioinformatics
 - 📫 How to reach me: alan.david507@gmail.com
 
 <!---
